@@ -165,6 +165,7 @@
     - Pascanu, Mikolov, Bengio, <a href="http://proceedings.mlr.press/v28/pascanu13.pdf">On the difficulty of training recurrent neural networks</a>
     - Goodfellow et al., <a href="https://www.deeplearningbook.org/contents/rnn.html">Deep learning book</a>, Ch. 10
   logistics: HW4 Out
+  slides: "/dgm-fall-2025/assets/lectures/Lecture_19_rnns.pdf"
 
 - date: 11/12
   lecturer: Prof. Lengerich
